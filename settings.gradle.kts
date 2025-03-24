@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
+enableFeaturePreview("STABLE_CONFIGURATION_CACHE")
 rootProject.name = "AnimateState"
 include(":app")
